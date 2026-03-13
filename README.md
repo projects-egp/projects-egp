@@ -1,4 +1,4 @@
-<h1>Main projects from 42's Common Core</h1>
+<h2>Main projects from 42's Common Core</h2>
 
 <h3><a href="https://github.com/projects-egp/egp42_pushswap">push_swap</a></h3>
 
